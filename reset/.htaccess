@@ -1,0 +1,7 @@
+<Files index.php>
+	Order allow,deny
+	#directorat LAN
+	allow from 103.24.49.22
+	#JSI LAN
+	allow from 103.24.49.23
+</Files>

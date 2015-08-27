@@ -1,0 +1,27 @@
+
+			if(empty($cekj['nrp']))
+			{
+				$sqlinslab = "insert into nilai values ('$username', '$lab', '', '$nilaitotallab', '$saranlab')"; //echo $sqlinslab;
+				mysql_query($sqlinslab) or die ("login insert lab gagal");
+			}
+			else
+			{
+				echo 'anda sudah pernah memasukkan nilai lab';
+			}
+			
+			
+		if(!empty($username))
+		{
+			$sqlcekj = "SELECT * FROM nilai WHERE nrp='$username' and (dos like 'Lab_%' or dos like 'B_%' or dos like 'SG_%')"; //echo $sqlmhs;
+			$rowcekj = mysql_query($sqlcekj) or die ("login cek lab gagal");
+			$cekj = mysql_fetch_assoc($rowcekj);
+			if(empty($cekj['nrp']))
+			{
+				$sqlinslab = "insert into nilai values ('$username', '$lab', '', '$nilaitotallab', '$saranlab')"; //echo $sqlinslab;
+				mysql_query($sqlinslab) or die ("login insert lab gagal");
+			}
+			else
+			{
+				echo 'anda sudah pernah memasukkan nilai lab';
+			}
+		}

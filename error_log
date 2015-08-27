@@ -1,0 +1,24 @@
+[20-Aug-2015 13:12:45 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ppipd/public_html/database.php on line 12
+[20-Aug-2015 13:16:09 Asia/Jakarta] PHP Warning:  Division by zero in /home/ppipd/public_html/hitungnilai.php on line 177
+[20-Aug-2015 13:16:09 Asia/Jakarta] PHP Warning:  Division by zero in /home/ppipd/public_html/hitungnilai.php on line 178
+[20-Aug-2015 13:16:09 Asia/Jakarta] PHP Warning:  Division by zero in /home/ppipd/public_html/hitungnilai.php on line 179
+[20-Aug-2015 13:16:09 Asia/Jakarta] PHP Warning:  Division by zero in /home/ppipd/public_html/hitungnilai.php on line 180
+[20-Aug-2015 13:16:31 Asia/Jakarta] PHP Warning:  Division by zero in /home/ppipd/public_html/hitungnilai.php on line 177
+[20-Aug-2015 13:16:31 Asia/Jakarta] PHP Warning:  Division by zero in /home/ppipd/public_html/hitungnilai.php on line 178
+[20-Aug-2015 13:16:31 Asia/Jakarta] PHP Warning:  Division by zero in /home/ppipd/public_html/hitungnilai.php on line 179
+[20-Aug-2015 13:16:31 Asia/Jakarta] PHP Warning:  Division by zero in /home/ppipd/public_html/hitungnilai.php on line 180
+[20-Aug-2015 13:16:38 Asia/Jakarta] PHP Warning:  Division by zero in /home/ppipd/public_html/hitungnilai.php on line 177
+[20-Aug-2015 13:16:38 Asia/Jakarta] PHP Warning:  Division by zero in /home/ppipd/public_html/hitungnilai.php on line 178
+[20-Aug-2015 13:16:38 Asia/Jakarta] PHP Warning:  Division by zero in /home/ppipd/public_html/hitungnilai.php on line 179
+[20-Aug-2015 13:16:38 Asia/Jakarta] PHP Warning:  Division by zero in /home/ppipd/public_html/hitungnilai.php on line 180
+[21-Aug-2015 11:17:09 Asia/Jakarta] PHP Warning:  Variable passed to each() is not an array or object in /home/ppipd/public_html/form.php on line 183
+[21-Aug-2015 11:17:09 Asia/Jakarta] PHP Warning:  Variable passed to each() is not an array or object in /home/ppipd/public_html/form.php on line 496
+[24-Aug-2015 12:23:53 Asia/Jakarta] PHP Warning:  Division by zero in /home/ppipd/public_html/hitungnilai.php on line 177
+[24-Aug-2015 12:23:53 Asia/Jakarta] PHP Warning:  Division by zero in /home/ppipd/public_html/hitungnilai.php on line 178
+[24-Aug-2015 12:23:53 Asia/Jakarta] PHP Warning:  Division by zero in /home/ppipd/public_html/hitungnilai.php on line 179
+[24-Aug-2015 12:23:53 Asia/Jakarta] PHP Warning:  Division by zero in /home/ppipd/public_html/hitungnilai.php on line 180
+[27-Aug-2015 13:52:12 Asia/Jakarta] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[27-Aug-2015 14:37:05 Asia/Jakarta] PHP Warning:  Variable passed to each() is not an array or object in /home/ppipd/public_html/form.php on line 496
+[27-Aug-2015 14:37:05 Asia/Jakarta] PHP Warning:  Variable passed to each() is not an array or object in /home/ppipd/public_html/form.php on line 183
+[27-Aug-2015 14:37:05 Asia/Jakarta] PHP Warning:  Variable passed to each() is not an array or object in /home/ppipd/public_html/form.php on line 496
+[27-Aug-2015 20:02:37 Asia/Jakarta] PHP Warning:  Variable passed to each() is not an array or object in /home/ppipd/public_html/form.php on line 496
